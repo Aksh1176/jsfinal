@@ -5,8 +5,9 @@
 number 2 to power 53
 string
 boolean
-BigInt
+Bigint
 undefined
+null
 symbol
 object
 */
